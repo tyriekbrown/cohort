@@ -4,6 +4,9 @@
 
 <h1>My Awesome Project</h1>
 This project is going to be a app that I present on aug. 9th, 2018 at Resilient Coders(located at the cic building) in Boston, MA.
+An app that holds my comic book, "cohort," based on a real 14 week program that test your limits and exercise your full potential with animation.
+
+-Also designed to allow access to the entire population of potential users regardless of disability or computer model. 
 
 
 <h1>How It's Made:</h1>
