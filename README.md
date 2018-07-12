@@ -1,4 +1,4 @@
-# cohort
+# Cohort
 
 ![final-pic](https://user-images.githubusercontent.com/39627002/42610195-fad214c2-8555-11e8-82d7-5e2668a03cf3.PNG)
 
@@ -6,7 +6,7 @@
 This project is going to be a app that I present on aug. 9th, 2018 at Resilient Coders(located at the cic building) in Boston, MA.
 
 
-<h1>How It's Made:>/h1>
+<h1>How It's Made:</h1>
 Tech used: HTML, CSS, JavaScript
 
 
